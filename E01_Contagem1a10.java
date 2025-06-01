@@ -1,4 +1,4 @@
-package lista09;
+package lista09_JAVA;
 
 public class E01_Contagem1a10 {
 

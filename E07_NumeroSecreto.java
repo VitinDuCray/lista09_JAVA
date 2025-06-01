@@ -1,4 +1,4 @@
-package lista09;
+package lista09_JAVA;
 
 import java.util.Scanner;
 import java.util.Random;
